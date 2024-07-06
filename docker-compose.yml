@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  getting-started:
+    image: oumaimabf/getting-started:latest
+    ports:
+      - 3000:3000
+      
